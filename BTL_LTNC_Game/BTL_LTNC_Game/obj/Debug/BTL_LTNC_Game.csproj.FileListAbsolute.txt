@@ -1,0 +1,14 @@
+E:\BTL_LTNC\BTL_LTNC_Game\BTL_LTNC_Game\obj\Debug\Interop.WMPLib.dll
+E:\BTL_LTNC\BTL_LTNC_Game\BTL_LTNC_Game\obj\Debug\BTL_LTNC_Game.csproj.ResolveComReference.cache
+E:\BTL_LTNC\BTL_LTNC_Game\BTL_LTNC_Game\obj\Debug\BTL_LTNC_Game.Form1.resources
+E:\BTL_LTNC\BTL_LTNC_Game\BTL_LTNC_Game\obj\Debug\BTL_LTNC_Game.Form2.resources
+E:\BTL_LTNC\BTL_LTNC_Game\BTL_LTNC_Game\obj\Debug\BTL_LTNC_Game.Properties.Resources.resources
+E:\BTL_LTNC\BTL_LTNC_Game\BTL_LTNC_Game\obj\Debug\BTL_LTNC_Game.csproj.GenerateResource.cache
+E:\BTL_LTNC\BTL_LTNC_Game\BTL_LTNC_Game\obj\Debug\BTL_LTNC_Game.csproj.CoreCompileInputs.cache
+E:\BTL_LTNC\BTL_LTNC_Game\BTL_LTNC_Game\obj\Debug\BTL_LTNC_Game.csprojAssemblyReference.cache
+E:\BTL_LTNC\BTL_LTNC_Game\BTL_LTNC_Game\bin\Debug\BTL_LTNC_Game.exe.config
+E:\BTL_LTNC\BTL_LTNC_Game\BTL_LTNC_Game\bin\Debug\BTL_LTNC_Game.exe
+E:\BTL_LTNC\BTL_LTNC_Game\BTL_LTNC_Game\bin\Debug\BTL_LTNC_Game.pdb
+E:\BTL_LTNC\BTL_LTNC_Game\BTL_LTNC_Game\obj\Debug\BTL_LTNC_Game.exe
+E:\BTL_LTNC\BTL_LTNC_Game\BTL_LTNC_Game\obj\Debug\BTL_LTNC_Game.pdb
+E:\BTL_LTNC\BTL_LTNC_Game\BTL_LTNC_Game\obj\Debug\BTL_LTNC_Game.Form3.resources
